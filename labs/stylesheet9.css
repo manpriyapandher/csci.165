@@ -1,0 +1,9 @@
+div1{
+	color: Tomato;
+}
+div2{
+	color: SlateBlue;
+}
+div2 p::first-line {
+  color: orange;
+  font-variant: small-caps;
